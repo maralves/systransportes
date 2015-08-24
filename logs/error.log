@@ -1,0 +1,2097 @@
+2015-08-19 21:48:28 Error: Fatal Error (1): Class 'AppController' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-19 21:48:28 Error: [Cake\Error\FatalErrorException] Class 'AppController' not found
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'AppContr...', '/opt/lampp/htdo...', 2)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-19 21:51:11 Error: Fatal Error (1): Class 'AppController' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-19 21:51:11 Error: [Cake\Error\FatalErrorException] Class 'AppController' not found
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'AppContr...', '/opt/lampp/htdo...', 2)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-19 21:55:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-19 21:55:45 Error: Fatal Error (1): Class 'AppController' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-19 21:55:45 Error: [Cake\Error\FatalErrorException] Class 'AppController' not found
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'AppContr...', '/opt/lampp/htdo...', 2)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-19 21:57:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-19 21:58:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-19 21:58:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-19 22:02:24 Error: Fatal Error (1): Class 'AppController' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 6]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-19 22:02:24 Error: [Cake\Error\FatalErrorException] Class 'AppController' not found
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'AppContr...', '/opt/lampp/htdo...', 6)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-20 01:43:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-20 01:45:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-20 01:56:01 Error: Fatal Error (1): Class 'AppController' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php, line 6]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-20 01:56:01 Error: [Cake\Error\FatalErrorException] Class 'AppController' not found
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'AppContr...', '/opt/lampp/htdo...', 6)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-20 02:54:08 Error: [Cake\Controller\Exception\MissingActionException] Action ClienteController::index() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'ClienteController',
+  'action' => 'index',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#2 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-20 02:55:25 Error: [Cake\Controller\Exception\MissingActionException] Action ClienteController::index() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'ClienteController',
+  'action' => 'index',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#2 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-20 02:59:31 Error: Fatal Error (1): Call to undefined function App\Controller\set() in [/opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-20 02:59:31 Error: [Cake\Error\FatalErrorException] Call to undefined function App\Controller\set()
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/opt/lampp/htdo...', 10)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-20 03:00:41 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-20 03:01:43 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-20 03:36:16 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-20 03:36:19 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-20 03:45:01 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 01:50:50 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 01:58:00 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 01:58:02 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:03:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index could not be found.
+Exception Attributes: array (
+  'class' => 'Index',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/index
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:03:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index could not be found.
+Exception Attributes: array (
+  'class' => 'Index',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/index
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:03:52 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:06:21 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:22:21 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:22:28 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:22:44 Error: Fatal Error (1): Class 'Cake\Controller' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-21 02:22:44 Error: [Cake\Error\FatalErrorException] Class 'Cake\Controller' not found
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'Cake\\Con...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-21 02:23:22 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:27:00 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:27:04 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 02:29:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 02:30:42 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:17:29 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:20:26 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:20:32 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:20:41 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(10): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:25:13 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:25:15 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:25:16 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:25:17 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:28:02 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:28:07 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:28:08 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(13): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:30:02 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(28): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:36:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 23:37:09 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(11): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:45:39 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(11): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-21 23:49:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-21 23:55:50 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(11): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\ClienteController->index()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-22 00:03:26 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.cliente' doesn't exist
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'cliente', Array, Object(Cake\Database\Schema\Table))
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(65): Cake\Database\Schema\Collection->describe('cliente', Array)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(426): Cake\Database\Schema\CachedCollection->describe('cliente')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Query.php(141): Cake\ORM\Table->schema()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(921): Cake\ORM\Table->query()
+#7 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Component/PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 /opt/lampp/htdocs/cakephp/src/Controller/ClienteController.php(48): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClienteController->index()
+#11 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#12 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#14 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2015-08-22 00:06:30 Error: [Cake\View\Exception\MissingTemplateException] Template file "Cliente/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Cliente/index.ctp',
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/View.php(462): Cake\View\View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(582): Cake\View\View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClienteController))
+#4 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-08-22 01:43:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:43:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:44:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:44:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:44:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:45:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:46:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:46:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:46:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:47:09 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [/opt/lampp/htdocs/cakephp/src/Template/Cliente/view.ctp, line 5]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 01:47:09 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';'
+Request URL: /cakephp/cliente/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 01:55:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:55:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 01:56:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clientes could not be found.
+Exception Attributes: array (
+  'class' => 'Clientes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 02:17:23 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.clientes' doesn't exist
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'clientes', Array, Object(Cake\Database\Schema\Table))
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(65): Cake\Database\Schema\Collection->describe('clientes', Array)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(426): Cake\Database\Schema\CachedCollection->describe('clientes')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Query.php(141): Cake\ORM\Table->schema()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(921): Cake\ORM\Table->query()
+#7 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Component/PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(11): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClientesController->index()
+#11 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#12 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#14 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2015-08-22 02:19:45 Error: [Cake\View\Exception\MissingTemplateException] Template file "Clientes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/index.ctp',
+)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/View.php(462): Cake\View\View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(582): Cake\View\View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#4 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-08-22 02:21:30 Error: Fatal Error (1): Call to a member function get() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 02:21:30 Error: [Cake\Error\FatalErrorException] Call to a member function get() on a non-object
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 15)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 02:22:00 Error: Fatal Error (1): Call to a member function get() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 02:22:00 Error: [Cake\Error\FatalErrorException] Call to a member function get() on a non-object
+Request URL: /cakephp/clientes/view/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 15)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:11:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 05:11:53 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:11:53 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:12:28 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:14:08 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:18:22 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:18:23 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:18:24 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:24:15 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:28:06 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:28:06 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:28:23 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:28:23 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:28:33 Error: Fatal Error (4): syntax error, unexpected '>' in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:28:33 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '>'
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:28:40 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:28:40 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:33:00 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:33:11 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:33:49 Error: Fatal Error (4): syntax error, unexpected ',' in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:33:49 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ','
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:38:38 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:40:06 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:40:07 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 8)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 05:44:51 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in /opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp on line 7 and defined in [/opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php, line 519]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\View\Helper\FormHelper::end() - CORE/src/View/Helper/FormHelper.php, line 519
+include - APP/Template/Clientes/adicionar.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 828
+Cake\View\View::_render() - CORE/src/View/View.php, line 788
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 05:45:25 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/adicionar.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 05:45:25 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 7)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 06:05:58 Warning: Warning (2): Creating default object from empty value in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 19]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+App\Controller\ClientesController::adicionar() - APP/Controller/ClientesController.php, line 19
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 411
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 06:07:37 Warning: Warning (2): Creating default object from empty value in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 19]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+App\Controller\ClientesController::adicionar() - APP/Controller/ClientesController.php, line 19
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 411
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 06:07:37 Error: Fatal Error (1): Call to a member function save() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 23]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 06:07:37 Error: [Cake\Error\FatalErrorException] Call to a member function save() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 23)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 06:22:48 Error: Fatal Error (1): Call to a member function save() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 06:22:48 Error: [Cake\Error\FatalErrorException] Call to a member function save() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 06:25:08 Error: Fatal Error (1): Call to a member function create() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 06:25:08 Error: [Cake\Error\FatalErrorException] Call to a member function create() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 13:42:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephp/cliente
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-22 13:43:18 Error: Fatal Error (1): Call to a member function create() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 13:43:18 Error: [Cake\Error\FatalErrorException] Call to a member function create() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 14:29:05 Error: Fatal Error (1): Call to a member function save() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 14:29:05 Error: [Cake\Error\FatalErrorException] Call to a member function save() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 14:36:57 Error: Fatal Error (1): Call to a member function save() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 23]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 14:36:57 Error: [Cake\Error\FatalErrorException] Call to a member function save() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 23)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 15:39:46 Error: Fatal Error (1): Class 'App\Controller\TableRegistry' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 15:39:46 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\TableRegistry' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 15:39:51 Error: Fatal Error (1): Class 'App\Controller\TableRegistry' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 15:39:51 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\TableRegistry' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 15:53:22 Error: Fatal Error (1): Class 'App\Controller\Cliente' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 15:53:23 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Cliente' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 15:53:32 Error: Fatal Error (1): Class 'App\Controller\Clientes' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 15:53:32 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Clientes' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 15:53:40 Error: Fatal Error (1): Class 'App\Controller\clientes' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 15:53:40 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\clientes' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 16:04:58 Error: Fatal Error (1): Class 'App\Controller\ClientesTable' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 16:04:58 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\ClientesTable' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 16:22:29 Error: Fatal Error (1): Class 'App\Controller\TableRegistry' not found in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 16:22:29 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\TableRegistry' not found
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 16:23:15 Error: Fatal Error (4): syntax error, unexpected 'use' (T_USE) in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 16:23:15 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'use' (T_USE)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 16:25:30 Error: Fatal Error (4): syntax error, unexpected 'use' (T_USE) in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 16:25:30 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'use' (T_USE)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 16:25:58 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 16:25:58 Error: [Cake\Error\FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 21:09:52 Error: [Cake\Controller\Exception\MissingActionException] Action ClientesController::editar() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'editar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#2 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-22 21:12:56 Error: Fatal Error (1): Call to a member function get() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 38]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 21:12:56 Error: [Cake\Error\FatalErrorException] Call to a member function get() on a non-object
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 38)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 21:16:07 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 38]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 21:16:07 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 38)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 21:16:14 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 38]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 21:16:14 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 38)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 21:18:40 Error: Fatal Error (1): Call to a member function newEntity() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 38]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 21:18:40 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on a non-object
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 38)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 21:19:38 Error: Fatal Error (1): Call to a member function newEntity() on a non-object in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 38]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 21:19:38 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on a non-object
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 38)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 21:33:27 Warning: Warning (2): Creating default object from empty value in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 37]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+App\Controller\ClientesController::editar() - APP/Controller/ClientesController.php, line 37
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 411
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-22 21:40:17 Error: Fatal Error (4): syntax error, unexpected '<' in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/editar.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 21:40:17 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '<'
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 4)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 22:26:00 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'senha' cannot be null
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Statement/StatementDecorator.php(169): Cake\Database\Statement\MysqlStatement->execute(NULL)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Log/LoggingStatement.php(55): Cake\Database\Statement\StatementDecorator->execute(NULL)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Connection.php(274): Cake\Database\Log\LoggingStatement->execute()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Query.php(175): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1516): Cake\Database\Query->execute()
+#6 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1436): Cake\ORM\Table->_insert(Object(Cake\ORM\Entity), Array)
+#7 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1367): Cake\ORM\Table->_processSave(Object(Cake\ORM\Entity), Object(ArrayObject))
+#8 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Connection.php(561): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#9 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1368): Cake\Database\Connection->transactional(Object(Closure))
+#10 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(28): Cake\ORM\Table->save(Object(Cake\ORM\Entity))
+#11 [internal function]: App\Controller\ClientesController->adicionar()
+#12 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#13 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#15 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2015-08-22 22:28:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'senha' cannot be null
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Statement/StatementDecorator.php(169): Cake\Database\Statement\MysqlStatement->execute(NULL)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Log/LoggingStatement.php(55): Cake\Database\Statement\StatementDecorator->execute(NULL)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Connection.php(274): Cake\Database\Log\LoggingStatement->execute()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Query.php(175): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1516): Cake\Database\Query->execute()
+#6 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1436): Cake\ORM\Table->_insert(Object(Cake\ORM\Entity), Array)
+#7 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1367): Cake\ORM\Table->_processSave(Object(Cake\ORM\Entity), Object(ArrayObject))
+#8 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Connection.php(561): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#9 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1368): Cake\Database\Connection->transactional(Object(Closure))
+#10 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(28): Cake\ORM\Table->save(Object(Cake\ORM\Entity))
+#11 [internal function]: App\Controller\ClientesController->adicionar()
+#12 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#13 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#15 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2015-08-22 22:29:03 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "clientes" with primary key [NULL]
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\ClientesController->editar()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-22 22:43:13 Error: Fatal Error (4): syntax error, unexpected ''nome'' (T_CONSTANT_ENCAPSED_STRING) in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-22 22:43:14 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''nome'' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /cakephp/clientes/adicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 45)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-22 22:44:21 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "clientes" with primary key [NULL]
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\ClientesController->editar()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-22 22:55:53 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.articles' doesn't exist
+Request URL: /cakephp/clientes/editar/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'articles', Array, Object(Cake\Database\Schema\Table))
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(65): Cake\Database\Schema\Collection->describe('articles', Array)
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(426): Cake\Database\Schema\CachedCollection->describe('articles')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(502): Cake\ORM\Table->schema()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1139): Cake\ORM\Table->primaryKey()
+#5 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(38): Cake\ORM\Table->get('1')
+#6 [internal function]: App\Controller\ClientesController->editar('1')
+#7 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#8 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#9 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#10 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
+2015-08-23 02:58:10 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "clientes"
+Request URL: /cakephp/clientes/editar/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1177): Cake\ORM\Query->firstOrFail()
+#1 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get('1')
+#2 [internal function]: App\Controller\ClientesController->editar('1')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#6 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#7 {main}
+
+
+2015-08-23 02:58:26 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "clientes" with primary key [NULL]
+Request URL: /cakephp/clientes/editar/
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\ClientesController->editar()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 02:58:29 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "clientes"
+Request URL: /cakephp/clientes/editar/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1177): Cake\ORM\Query->firstOrFail()
+#1 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get('1')
+#2 [internal function]: App\Controller\ClientesController->editar('1')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#6 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#7 {main}
+
+
+2015-08-23 02:59:31 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "clientes"
+Request URL: /cakephp/clientes/editar/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1177): Cake\ORM\Query->firstOrFail()
+#1 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get('1')
+#2 [internal function]: App\Controller\ClientesController->editar('1')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#6 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#7 {main}
+
+
+2015-08-23 03:20:09 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "clientes"
+Request URL: /cakephp/clientes/editar/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/ORM/Table.php(1177): Cake\ORM\Query->firstOrFail()
+#1 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(38): Cake\ORM\Table->get('1')
+#2 [internal function]: App\Controller\ClientesController->editar('1')
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#5 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#6 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#7 {main}
+
+
+2015-08-23 03:46:55 Error: [Cake\Network\Exception\MethodNotAllowedException] Method Not Allowed
+Request URL: /cakephp/clientes/deletar/2
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(52): Cake\Network\Request->allowMethod(Array)
+#1 [internal function]: App\Controller\ClientesController->deletar('2')
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 03:47:19 Error: [Cake\Network\Exception\MethodNotAllowedException] Method Not Allowed
+Request URL: /cakephp/clientes/deletar/2
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(52): Cake\Network\Request->allowMethod(Array)
+#1 [internal function]: App\Controller\ClientesController->deletar('2')
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 03:47:24 Error: [Cake\Network\Exception\MethodNotAllowedException] Method Not Allowed
+Request URL: /cakephp/clientes/deletar/2
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(52): Cake\Network\Request->allowMethod(Array)
+#1 [internal function]: App\Controller\ClientesController->deletar('2')
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 03:48:13 Error: [Cake\Network\Exception\MethodNotAllowedException] Method Not Allowed
+Request URL: /cakephp/clientes/deletar/2
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(52): Cake\Network\Request->allowMethod(Array)
+#1 [internal function]: App\Controller\ClientesController->deletar('2')
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 03:48:15 Error: [Cake\Network\Exception\MethodNotAllowedException] Method Not Allowed
+Request URL: /cakephp/clientes/deletar/2
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(52): Cake\Network\Request->allowMethod(Array)
+#1 [internal function]: App\Controller\ClientesController->deletar('2')
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 04:47:04 Error: Fatal Error (4): syntax error, unexpected '?>' in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/index.ctp, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-23 04:47:04 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '?>'
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-23 04:49:39 Error: [Cake\Controller\Exception\MissingActionException] Action ClientesController::addicionar() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'addicionar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/clientes/addicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#2 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-23 04:49:53 Error: [Cake\Controller\Exception\MissingActionException] Action ClientesController::addicionar() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'addicionar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/clientes/addicionar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#2 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-23 04:52:20 Warning: Warning (2): Missing argument 1 for App\Controller\ClientesController::deletar() in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 49]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+App\Controller\ClientesController::deletar() - APP/Controller/ClientesController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 411
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-23 04:52:20 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "clientes" with primary key [NULL]
+Request URL: /cakephp/clientes/deletar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(53): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\ClientesController->deletar()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 04:52:20 Warning: Warning (2): Missing argument 1 for App\Controller\ClientesController::deletar() in [/opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php, line 49]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+App\Controller\ClientesController::deletar() - APP/Controller/ClientesController.php, line 49
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 411
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-23 04:52:20 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "clientes" with primary key [NULL]
+Request URL: /cakephp/clientes/deletar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(53): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\ClientesController->deletar()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 04:52:30 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "clientes" with primary key [NULL]
+Request URL: /cakephp/clientes/editar
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/src/Controller/ClientesController.php(37): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\ClientesController->editar()
+#2 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Controller/Controller.php(411): call_user_func_array(Array, Array)
+#3 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#5 /opt/lampp/htdocs/cakephp/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-08-23 04:54:15 Error: Fatal Error (4): syntax error, unexpected '?' in [/opt/lampp/htdocs/cakephp/src/Template/Clientes/index.ctp, line 16]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-23 04:54:15 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '?'
+Request URL: /cakephp/clientes
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
