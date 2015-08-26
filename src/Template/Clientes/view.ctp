@@ -1,7 +1,7 @@
 <table>
 	<tbody>
 		<tr>
-			<th>Id</th>
+			<th>Id  </th>
 			<td><?= $clientes->id ?></td>
 		</tr>
 		<tr>
