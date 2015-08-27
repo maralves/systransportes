@@ -4,7 +4,7 @@ namespace App\Controller;
 use Cake\ORM\TableRegistry;
 //use Cake\ORM\Table;
 
-class ClientesController extends AppController
+class CotacoesController extends AppController
 {
 
 	public function index()
