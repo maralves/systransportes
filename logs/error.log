@@ -2176,3 +2176,269 @@ Stack Trace:
 #1 {main}
 
 
+2015-08-27 22:10:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte//systransporte/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:11:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte//systransporte/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:11:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte//systransporte/
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:11:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:12:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:13:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:24:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:26:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/clientes
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:27:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/clientes
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:28:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:41:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:42:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Systransporte could not be found.
+Exception Attributes: array (
+  'class' => 'Systransporte',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/systransporte/
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:43:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/cliente
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:43:57 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.clientes' doesn't exist
+Request URL: /SysTransporte/clientes
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'clientes', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('clientes', Array)
+#2 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('clientes')
+#3 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 C:\xampp\htdocs\SysTransporte\src\Controller\ClientesController.php(12): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClientesController->index()
+#11 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#14 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2015-08-27 22:44:06 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.clientes' doesn't exist
+Request URL: /SysTransporte/Clientes
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'clientes', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('clientes', Array)
+#2 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('clientes')
+#3 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 C:\xampp\htdocs\SysTransporte\src\Controller\ClientesController.php(12): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClientesController->index()
+#11 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#14 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2015-08-27 22:44:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cliente could not be found.
+Exception Attributes: array (
+  'class' => 'Cliente',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SysTransporte/Cliente
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-27 22:44:43 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.clientes' doesn't exist
+Request URL: /SysTransporte/clientes
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'clientes', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('clientes', Array)
+#2 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('clientes')
+#3 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 C:\xampp\htdocs\SysTransporte\src\Controller\ClientesController.php(12): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClientesController->index()
+#11 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#14 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2015-08-27 22:44:48 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.clientes' doesn't exist
+Request URL: /SysTransporte/clientes
+Stack Trace:
+#0 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'clientes', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('clientes', Array)
+#2 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('clientes')
+#3 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 C:\xampp\htdocs\SysTransporte\src\Controller\ClientesController.php(12): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClientesController->index()
+#11 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 C:\xampp\htdocs\SysTransporte\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#14 C:\xampp\htdocs\SysTransporte\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+

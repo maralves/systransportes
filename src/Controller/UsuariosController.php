@@ -23,7 +23,7 @@ class UsuariosController extends AppController
 			$usuario = $usuariosTable->newEntity();
 
 			$usuario->nome = $_POST['nome'];
-			$usuario->razao_social    = $_POST['razao_social'];
+			$usuario->razao_social    = $_POST['razaoSocial'];
 			$usuario->fantasia    = $_POST['fantasia'];
 			$usuario->cpfcnpj    = $_POST['cpfcnpj'];
 			$usuario->email    = $_POST['email'];
