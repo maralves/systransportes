@@ -2095,3 +2095,71 @@ Stack Trace:
 #2 {main}
 
 
+2015-08-26 18:44:11 Error: [PDOException] SQLSTATE[HY000] [1049] Unknown database 'systransportes'
+Request URL: /systransportes/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(89): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(46): Cake\Database\Driver\Mysql->connect()
+#3 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(62): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(44): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Connection.php(319): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(425): Cake\Database\Connection->schemaCollection()
+#8 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#9 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#10 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#11 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#12 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#13 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#14 C:\xampp\htdocs\systransportes\src\Controller\UsuariosController.php(12): Cake\Controller\Controller->paginate()
+#15 [internal function]: App\Controller\UsuariosController->index()
+#16 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#17 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#18 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsuariosController))
+#19 C:\xampp\htdocs\systransportes\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#20 {main}
+
+
+2015-08-26 18:52:14 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.usuarios' doesn't exist
+Request URL: /systransportes/usuarios
+Stack Trace:
+#0 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'usuarios', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('usuarios', Array)
+#2 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('usuarios')
+#3 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 C:\xampp\htdocs\systransportes\src\Controller\UsuariosController.php(12): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\UsuariosController->index()
+#11 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsuariosController))
+#14 C:\xampp\htdocs\systransportes\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
+2015-08-27 15:51:29 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'systransportes.clientes' doesn't exist
+Request URL: /systransportes/clientes/
+Stack Trace:
+#0 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'clientes', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('clientes', Array)
+#2 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('clientes')
+#3 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Query.php(141): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Query.php(123): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(1218): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\ORM\Table.php(921): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(167): Cake\ORM\Table->find('all', Array)
+#8 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Controller.php(641): Cake\Controller\Component\PaginatorComponent->paginate(Object(Cake\ORM\Table), Array)
+#9 C:\xampp\htdocs\systransportes\src\Controller\ClientesController.php(12): Cake\Controller\Controller->paginate()
+#10 [internal function]: App\Controller\ClientesController->index()
+#11 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Controller\Controller.php(411): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#13 C:\xampp\htdocs\systransportes\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ClientesController))
+#14 C:\xampp\htdocs\systransportes\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#15 {main}
+
+
